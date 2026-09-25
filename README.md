@@ -1,6 +1,6 @@
 ### Hi, I'm Zipeng Liu 👋
 
-PhD @ BJZGCA & TJU.
+PhD @ Zhongguancun Academy & Tianjin University.
 
 Building things at the intersection of **AI, Quant, Cancer, Aging**.
 
